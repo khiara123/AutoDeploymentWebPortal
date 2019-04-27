@@ -1,0 +1,33 @@
+{
+    "enviroments": ["stage1", "stage2", "stage3"],
+    "stage1": {
+        "boss": {
+            "server":"Abc",
+            "client": "1234"
+        },
+        "bossFix1":  {
+            "server":"def",
+            "client": "5678"
+        }
+    },
+    "stage2": {
+        "boss": {
+            "server":"ghi",
+            "client": "9101"
+        },
+        "bossFix":  {
+            "server":"sfds",
+            "client": "wrewr"
+        }
+    },
+    "stage3": {
+        "boss":  {
+            "server":"dsfdsfds",
+            "client": "343"
+        },
+        "bossFix":  {
+            "server":"qeer",
+            "client": "14344"
+        }
+    }
+}
